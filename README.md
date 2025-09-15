@@ -25,7 +25,16 @@ Results
 Mean Squared Error: It measures the average squared difference between predicted and actual values. A lower value indicates better accuracy.
 R² Score: It represents the proportion of variance in the target variable explained by the model. Values closer to 1 indicate a better fit.
 
+The graph below shows the result:
+<img width="790" height="674" alt="Screenshot 2025-09-15 220828" src="https://github.com/user-attachments/assets/c1e40e04-ba34-49e5-bb8c-4586dbf76901" />
 
-Intercept: The value of the target variable when the feature is zero.
+HOW TO RUN
+git clone https://github.com/jaya-v07/Linear_Reg
+cd <repository-folder>
+python diabetes_regression.py
 
-The accompanying plot displays actual test data points alongside the model’s predicted values, illustrating the quality of the fit.
+DEPENDENCIES:
+Python
+Numpy
+Matplotlib
+Scikit-learn
