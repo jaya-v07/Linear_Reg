@@ -29,9 +29,10 @@ The graph below shows the result:
 <img width="790" height="674" alt="Screenshot 2025-09-15 220828" src="https://github.com/user-attachments/assets/c1e40e04-ba34-49e5-bb8c-4586dbf76901" />
 
 HOW TO RUN
-git clone https://github.com/jaya-v07/Linear_Reg
-cd <repository-folder>
-python diabetes_regression.py
+
+    git clone https://github.com/jaya-v07/Linear_Reg
+    cd <repository-folder>
+    python diabetes_regression.py
 
 DEPENDENCIES:
 Python
